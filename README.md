@@ -22,7 +22,7 @@ The following guides illustrate how make this project works on you own computer:
 * Once you have your email configured you have to change the email and the password you created on [Application Properties](src/main/resources/application.properties);
 * To finish, just start the app and send some email for fun!
 
-### Example: sendind and email
+### Example: sending an email
 
 * Open PostMen/Insomnia;
 * Create a collection named SendEmail or Something like that;

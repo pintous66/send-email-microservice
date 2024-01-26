@@ -17,7 +17,7 @@ I plan to use this microservice in future external projects, and, as evident, th
 ### Guides
 The following guides illustrate how make this project works on you own computer:
 
-* You have to install PostGres (PgAdmin4) and create a data base called "Email", then you must change the configution of username and password of [Application Properties](src/main/resources/application.properties);
+* You have to install PostGres (PgAdmin4) and create a data base called "Email", then you must change the config of username and password of [Application Properties](src/main/resources/application.properties);
 * You need an gmail account with security password to send email via third party programs, here you can find the way [Manual](https://support.google.com/accounts/answer/185833);
 * Once you have your email configured you have to change the email and the password you created on [Application Properties](src/main/resources/application.properties);
 * To finish, just start the app and send some email for fun!
